@@ -1,0 +1,18 @@
+{
+    "name": "Madgwick",
+    "provides": "Madgwick.h",
+    "description": "Helpers for MadgwickAHRS algorithm",
+    "version": "1.2.0",
+    "maintainer": "Arduino <info@arduino.cc>",
+    "category": "Data Processing",
+    "subcategory": "Algorithms",
+    "family": "all",
+    "core": "all",
+    "install": {
+        "examples": "/",
+        "keywords.txt": "/",
+        "library.properties": "/",
+        "src": "/"
+    },
+    "readme": "README.adoc"
+}
